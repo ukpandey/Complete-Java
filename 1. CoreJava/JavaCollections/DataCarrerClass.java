@@ -56,5 +56,6 @@ public class DataCarrerClass {
         Alien a1 = new Alien(23, "Ujjwal");
         Alien a2 = new Alien(23, "Ujjwal");
         System.out.println(a1.equals(a2));
+        System.out.println(a1.age());
     }
 }

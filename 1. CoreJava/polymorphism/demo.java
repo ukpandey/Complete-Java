@@ -35,5 +35,7 @@ public class demo {
 
         C c = (C) a; // this is called downcasting
         c.show();
+
+
     }
 }

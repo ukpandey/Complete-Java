@@ -1,0 +1,52 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.sar
+
+# Maven target directory
+/target/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# NetBeans files
+/nbproject/
+
+# Gradle files
+.gradle/
+build/
+
+# Spring Boot
+spring-boot-starter-*/build/
+!spring-boot-starter-*/build/libs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# Sublime Text
+*.sublime-workspace
+
+# Leiningen (for Clojure)
+.lein-repl-history

@@ -15,10 +15,10 @@ class C{
         System.out.println("In C show");
     }
 }
-
 abstract class D{
     public abstract void show();
 }
+
 public class InnverClass {
     public static void main(String[] args) {
         A a = new A();
@@ -46,6 +46,7 @@ public class InnverClass {
             }
         };
         d.show();
+
 
     }
 }

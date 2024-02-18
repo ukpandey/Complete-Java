@@ -1,4 +1,4 @@
-package polymorphism;
+// package polymorphism;
 class Mobile {
     String brand;
     int price;

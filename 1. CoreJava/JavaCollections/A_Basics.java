@@ -1,4 +1,4 @@
-package JavaCollections;
+// package JavaCollections;
 
 public class A_Basics {
     public static void main(String[] args) {

@@ -41,7 +41,8 @@ public class MultiThreading {
         A a = new A();
         B b = new B();
         C c = new C();
-        a.start();
+        // a.start();
+        a.start(); // run() karega toh pehle a chalega fir b ptanhi kyu
         try {
             Thread.sleep(10);
         } catch (InterruptedException e) {

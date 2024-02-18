@@ -43,16 +43,16 @@ public class arrays {
         //     }
         //      System.out.println();  
         // }
-        Student s1 = new Student();
-        s1.name = "Ujjwal";
-        s1.rno = 2;
-        Student s[] = new Student[3];
-        s[0] = s1;
-        s[1] = s1;
-        s[2] = s1;
-        for(Student st:s){
-            System.out.println("Name: "+ st.name + " Rno: " + st.rno);
-        }
+        // Student s1 = new Student();
+        // s1.name = "Ujjwal";
+        // s1.rno = 2;
+        // Student s[] = new Student[3];
+        // s[0] = s1;
+        // s[1] = s1;
+        // s[2] = s1;
+        // for(Student st:s){
+        //     System.out.println("Name: "+ st.name + " Rno: " + st.rno);
+        // }
 
 
     }
